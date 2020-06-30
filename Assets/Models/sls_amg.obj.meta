@@ -1,0 +1,346 @@
+fileFormatVersion: 2
+guid: 8f85cce001f390d4384394eca5921f23
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: bonnet
+    100002: boot
+    100004: bump_front
+    100006: bump_rear
+    100008: chassis
+    100010: chassis_MeshPart0
+    100012: chassis_MeshPart1
+    100014: defrost
+    100016: door_lf_pivot
+    100018: door_rf_pivot
+    100020: engine
+    100022: exhaust
+    100024: gauge
+    100026: glass
+    100028: glass_interior_glass
+    100030: headlings
+    100032: HL_glasses
+    100034: RearLight_glasses
+    100036: //RootNode
+    100038: tailings
+    100040: wheel02_pivot
+    100042: wheel03_pivot
+    100044: wheel04_pivot
+    100046: wheel1_pivot
+    100048: windscreen
+    400000: bonnet
+    400002: boot
+    400004: bump_front
+    400006: bump_rear
+    400008: chassis
+    400010: chassis_MeshPart0
+    400012: chassis_MeshPart1
+    400014: defrost
+    400016: door_lf_pivot
+    400018: door_rf_pivot
+    400020: engine
+    400022: exhaust
+    400024: gauge
+    400026: glass
+    400028: glass_interior_glass
+    400030: headlings
+    400032: HL_glasses
+    400034: RearLight_glasses
+    400036: //RootNode
+    400038: tailings
+    400040: wheel02_pivot
+    400042: wheel03_pivot
+    400044: wheel04_pivot
+    400046: wheel1_pivot
+    400048: windscreen
+    2300000: bonnet
+    2300002: boot
+    2300004: bump_front
+    2300006: bump_rear
+    2300008: chassis_MeshPart0
+    2300010: chassis_MeshPart1
+    2300012: defrost
+    2300014: door_lf_pivot
+    2300016: door_rf_pivot
+    2300018: engine
+    2300020: exhaust
+    2300022: gauge
+    2300024: glass
+    2300026: glass_interior_glass
+    2300028: headlings
+    2300030: HL_glasses
+    2300032: RearLight_glasses
+    2300034: tailings
+    2300036: wheel02_pivot
+    2300038: wheel03_pivot
+    2300040: wheel04_pivot
+    2300042: wheel1_pivot
+    2300044: windscreen
+    3300000: bonnet
+    3300002: boot
+    3300004: bump_front
+    3300006: bump_rear
+    3300008: chassis_MeshPart0
+    3300010: chassis_MeshPart1
+    3300012: defrost
+    3300014: door_lf_pivot
+    3300016: door_rf_pivot
+    3300018: engine
+    3300020: exhaust
+    3300022: gauge
+    3300024: glass
+    3300026: glass_interior_glass
+    3300028: headlings
+    3300030: HL_glasses
+    3300032: RearLight_glasses
+    3300034: tailings
+    3300036: wheel02_pivot
+    3300038: wheel03_pivot
+    3300040: wheel04_pivot
+    3300042: wheel1_pivot
+    3300044: windscreen
+    4300000: bonnet
+    4300002: boot
+    4300004: bump_front
+    4300006: bump_rear
+    4300008: chassis_MeshPart0
+    4300010: chassis_MeshPart1
+    4300012: defrost
+    4300014: door_lf_pivot
+    4300016: door_rf_pivot
+    4300018: engine
+    4300020: exhaust
+    4300022: gauge
+    4300024: glass
+    4300026: glass_interior_glass
+    4300028: headlings
+    4300030: HL_glasses
+    4300032: RearLight_glasses
+    4300034: tailings
+    4300036: wheel02_pivot
+    4300038: wheel03_pivot
+    4300040: wheel04_pivot
+    4300042: wheel1_pivot
+    4300044: windscreen
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HL_glassesMat
+    second: {fileID: 2100000, guid: a8c7e1a2bb04c8948952801cbe71fe3e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RearLight_glassesMat
+    second: {fileID: 2100000, guid: 248f09f92915da649b187dfa71c4d571, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bonnetMat
+    second: {fileID: 2100000, guid: 0bb58959cbaa74d4e9e1c68f0bd49a02, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bootMat
+    second: {fileID: 2100000, guid: 621758d473997094cae3f14c7ccebd85, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bump_frontMat
+    second: {fileID: 2100000, guid: 9a2992cffd039b546bf48189f2ef77fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bump_rearMat
+    second: {fileID: 2100000, guid: 9d3ab62e027eaea4e97b4bde99534ad6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chassisMat
+    second: {fileID: 2100000, guid: 043f0679b63189a48a985b015700aa6e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: defrostMat
+    second: {fileID: 2100000, guid: be685a52069e92e4eaf7c4d3ffc4d0a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: door_lf_pivotMat
+    second: {fileID: 2100000, guid: 8d7b96bdb7439e04e80a0a8ce4fbc0d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: door_rf_pivotMat
+    second: {fileID: 2100000, guid: a07de6f19a28ca6499012a74782f269b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: engineMat
+    second: {fileID: 2100000, guid: d95c0155e97b25e4ea1dfd41f21f5734, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: exhaustMat
+    second: {fileID: 2100000, guid: e0578c115f461844d8180a7e8561b4fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gaugeMat
+    second: {fileID: 2100000, guid: 173fd2b107c304f4fb60e62191047412, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glassMat
+    second: {fileID: 2100000, guid: 7223a177679b67d4282ce086276fe7d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass_interior_glassMat
+    second: {fileID: 2100000, guid: d940edac10b26ec4b9a108e3d0bd8d9e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: headlingsMat
+    second: {fileID: 2100000, guid: a62a200e0a3dc6f4ba2c054e091c63b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tailingsMat
+    second: {fileID: 2100000, guid: a515d7eb7123b7343ae77ab0f41ad768, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wheel02_pivotMat
+    second: {fileID: 2100000, guid: 9ddc2616bc28ced4885735d09028fa2c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wheel03_pivotMat
+    second: {fileID: 2100000, guid: c536df65826e116438cced80cb8ac64c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wheel04_pivotMat
+    second: {fileID: 2100000, guid: 6168b6f07bf564f44a1afc404803f955, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wheel1_pivotMat
+    second: {fileID: 2100000, guid: 1f4c156e12f35ea489dee5268f3dae82, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: windscreenMat
+    second: {fileID: 2100000, guid: b9a610f99f850204d9e1d2786117339c, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths:
+    - bonnet
+    - boot
+    - bump_front
+    - bump_rear
+    - chassis
+    - chassis/chassis_MeshPart0
+    - chassis/chassis_MeshPart1
+    - defrost
+    - door_lf_pivot
+    - door_rf_pivot
+    - engine
+    - exhaust
+    - gauge
+    - glass
+    - glass_interior_glass
+    - headlings
+    - HL_glasses
+    - RearLight_glasses
+    - tailings
+    - wheel02_pivot
+    - wheel03_pivot
+    - wheel04_pivot
+    - wheel1_pivot
+    - windscreen
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 3
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
